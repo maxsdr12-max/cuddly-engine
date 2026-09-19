@@ -1,0 +1,5 @@
+MC_HOST=ntx.mcsh.io
+MC_PORT=25565
+BOT_USERNAME=Alive
+MC_AUTH=offline
+MC_VERSION=1.21.11
